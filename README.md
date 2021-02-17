@@ -1,5 +1,5 @@
 # Witaj na moim profilu
-Nazywam się deepivin aka marek12306 (nie podaję swojego prawidziwego imienia w internecie). Interesuję się zagadnieniami związanymi z informatyką/programowaniem. Jestem otwarty na nowe technologie, języki programowania. Lubię także różne ironiczne, gówno memy oraz śmieję się z głupoty, którą także objawiam u samego siebie.
+Nazywam się deepivin aka marek12306 (nie podaję swojego prawidziwego imienia w internecie). Interesuję się zagadnieniami związanymi z informatyką/programowaniem. Jestem otwarty na nowe technologie, języki programowania. Lubię także różne ironiczne, gówno memy które śmieszą swoją głupotą.
 
 # Krótkie preferencje czy fakty o mnie
 - Astolfo: [tra.py](https://github.com/marek12306/tra.py)
